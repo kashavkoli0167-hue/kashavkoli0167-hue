@@ -1,90 +1,100 @@
-# Hi there, I'm Kashav! 👋
+<div align="center">
+
+# 👋 Hi, I'm Kashav Koli
 
 ### Aspiring Frontend Developer | B.Tech ECE Graduate
 
-I'm a B.Tech Electronics and Communication Engineering graduate
-with an interest in Web Development and building practical projects.
+**Learning • Building • Improving**
 
-I enjoy learning new technologies, improving my coding skills,
-and turning ideas into useful web applications.
+I’m a B.Tech Electronics and Communication Engineering graduate passionate about web development and building practical projects.
 
-My goal is to become a professional Web Developer by strengthening
-my fundamentals, building projects, and continuously learning.
+My focus is on strengthening my fundamentals, creating useful web applications, and growing into a professional web developer.
+
+</div>
 
 ---
 
-## 💻 Technical Skills
+## 💻 Tech Stack
 
-- **Frontend:** HTML5, CSS3, JavaScript Fundamentals
-- **Design:** Responsive Web Design
-- **Tools:** Git & GitHub
-- **Currently Exploring:** SQL and Database Fundamentals
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🤖 Nexora AI
-An AI chatbot web interface project focused on a clean,
-modern, and user-friendly experience.
+
+An AI chatbot application focused on a modern interface and user-friendly chat experience.
 
 **Status:** In Development
 
 ### 📝 Interactive Quiz Application
-A quiz application project focused on interactive user
-experiences and frontend functionality.
+
+A frontend project focused on interactive quizzes and user engagement.
 
 ### 💬 Real-Time Chat Application
-A chat application project exploring real-time communication
-and frontend development.
+
+A chat application exploring real-time communication and frontend development.
 
 ### 🌐 Personal Portfolio Website
-A personal portfolio website showcasing frontend development
-skills and projects.
+
+A personal website showcasing my development journey and projects.
 
 ### 🎓 E-Learning Platform UI
-A frontend user interface project designed for an
-online learning experience.
+
+A frontend interface designed for an online learning experience.
+
+> Explore my repositories to learn more about my projects and development journey.
 
 ---
 
 ## 🌱 Currently Learning
 
-- SQL and Database Fundamentals
-- Strengthening JavaScript fundamentals
-- Improving problem-solving skills
-- Building responsive web interfaces
-- Understanding code through hands-on practice
+* Strengthening JavaScript fundamentals
+* SQL and database fundamentals
+* Responsive web development
+* Problem-solving through coding practice
+* Understanding code through hands-on projects
+
+## 🎯 Future Goals
+
+* Learn React.js
+* Improve backend development skills
+* Build full-stack web applications
+* Integrate APIs into practical projects
 
 ---
 
-## 🎯 Future Learning Goals
+## 📊 GitHub Statistics
 
-- React.js
-- Backend Development
-- Building Full-Stack Web Applications
-- Integrating APIs into web projects
+<div align="center">
 
----
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=kashavkoli0167-hue&show_icons=true&theme=tokyonight&hide_border=true" alt="Kashav's GitHub statistics" />
 
-## 📈 My Development Journey
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashavkoli0167-hue&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages on GitHub" />
 
-I'm continuously working to improve my development skills
-through practical projects, coding practice, and learning.
-
-I believe in understanding the code I write and improving
-one step at a time.
+</div>
 
 ---
 
 ## 🤝 Connect With Me
 
-- **LinkedIn:** [Connect with me](https://linkedin.com/in/kashavkoli69/)
-- **GitHub:** [Explore my repositories](https://github.com/kashavkoli0167-hue)
+* 💼 **LinkedIn:** [Connect with me](https://linkedin.com/in/kashavkoli69/)
+* 🐙 **GitHub:** [Explore my repositories](https://github.com/kashavkoli0167-hue)
 
 ---
 
-⭐ Thanks for visiting my profile!
+<div align="center">
 
-Feel free to explore my repositories and follow my journey
-as I continue learning and building projects.
+### 🌟 Thanks for visiting my profile!
+
+*Learning every day. Building one project at a time.*
+
+</div>
